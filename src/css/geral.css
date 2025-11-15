@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-suave-0: #F8F5F1; /* Background Principal */
+    --color-suave-1: #EDE7DC;/* Secções alternadas */
+    --color-suave-2: #C19A6B;/* Botões e Links */
+    --color-suave-3: #3E3E3E;/* Textos importantes */
+    --color-suave-4: #6B6B6B;/* Parágrafo */
+    --color-suave-5: #D7C7AD;/* Cor de detalhes */
+    --color-suave-6: #1F1F1F;/* Cor para contastes pontuais */
+
+    --cards-background-color: #FFFFFF;
+    --cards-box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1);
+    --cards-hover: #D7C7AD;
+}
