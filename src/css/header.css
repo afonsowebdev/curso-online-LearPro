@@ -1,0 +1,30 @@
+header {
+    background-color: var(--color-suave-1);
+    box-shadow: var(----box-shadow);
+
+    margin: 0.50rem;
+    padding: 10px;
+    border-radius: 0.20rem;
+
+    
+
+    .navBar {
+
+        
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .left {
+            display: flex;
+            gap: 20px;
+
+            .navBar__logo {
+                #logo {
+                    color: var(--background-color);
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}

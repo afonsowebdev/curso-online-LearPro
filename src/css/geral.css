@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 :root {
@@ -13,7 +14,7 @@
     --color-suave-5: #D7C7AD;/* Cor de detalhes */
     --color-suave-6: #1F1F1F;/* Cor para contastes pontuais */
 
-    --cards-background-color: #FFFFFF;
-    --cards-box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1);
-    --cards-hover: #D7C7AD;
+    --background-color: #FFFFFF;
+    --box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1);
+    --hover: #D7C7AD;
 }
